@@ -1,30 +1,29 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 00: 19 de Julho, 2024
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Progresso:** Retornei ao projeto do jogo da cobrinha e estudei o código depois de muito tempo distante, iniciei a implementação da lógica de top scores.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Pensamento:** Pouco tempo distante de um projeto já é suficiente para esquecer muitas coisas.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Projeto:** [Jogo da cobrinha](https://github.com/BrauUu/snake-game)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 01: 20 de Julho, 2024
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Progresso:** Continuei o curso de React, resolvi um exercício do beecrowd e fiz otimizações no jogo da cobrinha
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Pensamento:** Apesar de resolver o exercício, não foi aceito no beecrowd, problemas com tabulação sendo considerada diferente de espaços em branco, ninguém resolveu o exercício em python.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 
+**Projeto:** 
+[Jogo da cobrinha](https://github.com/BrauUu/snake-game)
+[Exercícios Beecrowd](https://github.com/BrauUu/beecrowd-solutions)
 
-### Day 1: June 27, Monday
+### Day 02: 21 de Julho, 2024
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Progresso:** Finalizei a implementação da regra de top scores, fiz algumas mudanças de estilo e na lógica do menu.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Pensamento:** Demorei mais do que esperava para implementar a regra dos scores.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Projeto:** [Jogo da cobrinha](https://github.com/BrauUu/snake-game)
