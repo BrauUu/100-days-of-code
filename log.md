@@ -17,7 +17,9 @@
 Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 
 **Projeto:** 
+
 [Jogo da cobrinha](https://github.com/BrauUu/snake-game)
+
 [Exercícios Beecrowd](https://github.com/BrauUu/beecrowd-solutions)
 
 ### Day 02: 21 de Julho, 2024
