@@ -24,8 +24,14 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 
 ### Day 02: 21 de Julho, 2024
 
-**Progresso:** Finalizei a implementação da regra de top scores, fiz algumas mudanças de estilo e na lógica do menu.
+**Progresso:** Finalizei a versão inicial da implementação da regra de top scores, fiz algumas mudanças de estilo e na lógica do menu.
 
 **Pensamento:** Demorei mais do que esperava para implementar a regra dos scores.
+
+**Projeto:** [Jogo da cobrinha](https://github.com/BrauUu/snake-game)
+
+### Dia 03: 22 de Julho, 2024
+
+**Progresso:** Finalizei a implementação da regra de top scores e melhorias visuais para deixar o jogo mais interativo.
 
 **Projeto:** [Jogo da cobrinha](https://github.com/BrauUu/snake-game)
