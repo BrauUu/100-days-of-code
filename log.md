@@ -35,3 +35,17 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Progresso:** Finalizei a implementação da regra de top scores e melhorias visuais para deixar o jogo mais interativo.
 
 **Projeto:** [Jogo da cobrinha](https://github.com/BrauUu/snake-game)
+
+### Dia 04: 26 de Julho, 2024
+
+**Progresso:** Inicializei a implementação da primeira experiência no Roblox
+
+### Dia 05: 27 de Julho, 2024
+
+**Progresso:** Dei andamento no desenvolvimento da experiência no roblox, implementando scripts e regras no roblox studio
+
+### Dia 06: 28 de Julho, 2024
+
+**Progresso:** Finalizei o desenvolvimento do que era proposto no tutorial/documentação da experiencia no Roblox
+
+**Pensamento:** Agora tenho que testar o conhecimento implementando regras prórprias definidas por mim, nesta experiência.
