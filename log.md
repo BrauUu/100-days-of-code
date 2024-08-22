@@ -49,3 +49,20 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Progresso:** Finalizei o desenvolvimento do que era proposto no tutorial/documentação da experiencia no Roblox
 
 **Pensamento:** Agora tenho que testar o conhecimento implementando regras prórprias definidas por mim, nesta experiência.
+### Dia 07: 29 de Julho, 2024
+
+**Progresso:** Dei início a implementação de funcionalidades idealizadas por mim (além do projeto do tutorial), porém não tive progresso
+
+### Dia 08: 19 de Agosto, 2024
+
+**Progresso:** Dei inicio a uma nova experiência, semelhante a criada durante o tutorial, porém focada no funcionamento do cenário. Com plataformas que movem, caem e jogam o player para cima.
+
+### Dia 09: 20 de Agosto, 2024
+
+**Progresso:** A experiência está apresentando um bom progresso, foi criado uma ponte que certas partes caem ao serem tocadas.
+
+**Pensamento:** Estou gostando do rumo que está tomando, apesar da simplicidade do projeto
+
+### Dia 10: 21 de Agosto, 2024
+
+**Progresso:** Dei mais progresso, agora foi criada uma seção de plataformas que desaparecem e aparecem, além de melhorias visuais pelo mapa.
