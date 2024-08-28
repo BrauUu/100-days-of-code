@@ -85,3 +85,11 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Pensamento:** Perdi muito tempo pensando em como vincular duas partes do mapa, após decidido, perdi muito tempo tentando implementar (ficou ruim).
 
 **Projeto:** Mountain Journey (Roblox)
+
+### Dia 12: 27 de Agosto, 2024
+
+**Progresso:** Finalizei diversas melhorias no cenário, finalizei as plataformas que caem, e terminei o geral do mapa.
+
+**Pensamento:** Agora são ajustes pontuais para deixar o mapa mais detalhado e melhorias nas funcionalidades já existentes, depois é o mapa da caverna
+
+**Projeto:** Mountain Journey (Roblox)
