@@ -93,3 +93,11 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Pensamento:** Agora são ajustes pontuais para deixar o mapa mais detalhado e melhorias nas funcionalidades já existentes, depois é o mapa da caverna
 
 **Projeto:** Mountain Journey (Roblox)
+
+### Dia 13: 28  de Agosto, 2024
+
+**Progresso:** Melhorias visuais e na ambientação do cenário.
+
+**Pensamento:** Passei umas boas horas, “embunitando” o cenário.
+
+**Projeto:** Mountain Journey (Roblox)
