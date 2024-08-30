@@ -101,3 +101,9 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Pensamento:** Passei umas boas horas, “embunitando” o cenário.
 
 **Projeto:** Mountain Journey (Roblox)
+
+### Dia 14: 29  de Agosto, 2024
+
+**Progresso:** Melhorias visuais na água.
+
+**Projeto:** Mountain Journey (Roblox)
