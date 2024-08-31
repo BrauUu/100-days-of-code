@@ -107,3 +107,15 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Progresso:** Melhorias visuais na água.
 
 **Projeto:** Mountain Journey (Roblox)
+
+### Dia 15: 30 de Agosto, 2024
+
+**Progresso:** Melhorias visuais na água e implementações de som nos objetos
+
+**Projeto:** Mountain Journey (Roblox)
+
+### Dia 16: 31 de Agosto, 2024
+
+**Progresso:** Ajuste de código e arquitetura, sons nos objetos e correções de bugs
+
+**Projeto:** Mountain Journey (Roblox)
