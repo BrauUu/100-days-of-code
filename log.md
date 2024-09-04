@@ -125,3 +125,15 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Progresso:** Ajuste de código e arquitetura e correções de bugs do multiplayer.
 
 **Projeto:** Mountain Journey (Roblox)
+
+### Dia 18: 02 de Setembro, 2024
+
+**Progresso:** Ajuste de código e arquitetura e correções de bugs nas plataformas de pulo.
+
+**Projeto:** Mountain Journey (Roblox)
+
+### Dia 19: 03 de Setembro, 2024
+
+**Progresso:** Ajuste minuciosos finais.
+
+**Projeto:** Mountain Journey (Roblox)
