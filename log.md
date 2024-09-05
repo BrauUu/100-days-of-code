@@ -137,3 +137,9 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Progresso:** Ajuste minuciosos finais.
 
 **Projeto:** Mountain Journey (Roblox)
+
+### Dia 20: 04 de Setembro, 2024
+
+**Progresso:** Trabalhei com o teleporte do usuário entre “Places”, iniciei o mapa da caverna.
+
+**Projeto:** Mountain Journey (Roblox)
