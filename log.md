@@ -62,7 +62,7 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 
 **Progresso:** Dei inicio a uma nova experiência, semelhante a criada durante o tutorial, porém focada no funcionamento do cenário. Com plataformas que movem, caem e jogam o player para cima.
 
-**Projeto:** Mountain Journey (Roblox)
+**Projeto:** The Journey (Roblox)
 
 ### Dia 09: 20 de Agosto, 2024
 
@@ -70,21 +70,21 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 
 **Pensamento:** Estou gostando do rumo que está tomando, apesar da simplicidade do projeto
 
-**Projeto:** Mountain Journey (Roblox)
+**Projeto:**The Journey (Roblox)
 
 ### Dia 10: 21 de Agosto, 2024
 
 **Progresso:** Dei mais progresso, agora foi criada uma seção de plataformas que desaparecem e aparecem, além de melhorias visuais pelo mapa.
 
-**Projeto:** Mountain Journey (Roblox)
+**Projeto:** The Journey (Roblox)
 
 ### Dia 11: 26 de Agosto, 2024
 
 **Progresso:** Criei as plataformas que desaparecem depois de um certo tempo.
 
-**Pensamento:** Perdi muito tempo pensando em como vincular duas partes do mapa, após decidido, perdi muito tempo tentando implementar (ficou ruim).
+**Pensamento:** Perdi muito tempo pensando em como vincular duas partes do mapa, após decidido, ****perdi muito tempo tentando implementar (ficou ruim)
 
-**Projeto:** Mountain Journey (Roblox)
+**Projeto:** The Journey (Roblox)
 
 ### Dia 12: 27 de Agosto, 2024
 
@@ -92,7 +92,7 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 
 **Pensamento:** Agora são ajustes pontuais para deixar o mapa mais detalhado e melhorias nas funcionalidades já existentes, depois é o mapa da caverna
 
-**Projeto:** Mountain Journey (Roblox)
+**Projeto:** The Journey (Roblox)
 
 ### Dia 13: 28  de Agosto, 2024
 
@@ -100,25 +100,25 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 
 **Pensamento:** Passei umas boas horas, “embunitando” o cenário.
 
-**Projeto:** Mountain Journey (Roblox)
+**Projeto:** The Journey (Roblox)
 
 ### Dia 14: 29  de Agosto, 2024
 
 **Progresso:** Melhorias visuais na água.
 
-**Projeto:** Mountain Journey (Roblox)
+**Projeto:** The Journey (Roblox)
 
 ### Dia 15: 30 de Agosto, 2024
 
 **Progresso:** Melhorias visuais na água e implementações de som nos objetos
 
-**Projeto:** Mountain Journey (Roblox)
+**Projeto:** The Journey (Roblox)
 
 ### Dia 16: 31 de Agosto, 2024
 
 **Progresso:** Ajuste de código e arquitetura, sons nos objetos e correções de bugs
 
-**Projeto:** Mountain Journey (Roblox)
+**Projeto:** The Journey (Roblox)
 
 ### Dia 17: 01 de Setembro, 2024
 
@@ -130,22 +130,28 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 
 **Progresso:** Ajuste de código e arquitetura e correções de bugs nas plataformas de pulo.
 
-**Projeto:** Mountain Journey (Roblox)
+**Projeto:** The Journey (Roblox)
 
 ### Dia 19: 03 de Setembro, 2024
 
 **Progresso:** Ajuste minuciosos finais.
 
-**Projeto:** Mountain Journey (Roblox)
+**Projeto:** The Journey (Roblox)
 
 ### Dia 20: 04 de Setembro, 2024
 
 **Progresso:** Trabalhei com o teleporte do usuário entre “Places”, iniciei o mapa da caverna.
 
-**Projeto:** Mountain Journey (Roblox)
+**Projeto:** The Journey (Roblox)
 
 ### Dia 21: 08 de Setembro, 2024
 
 **Progresso:** Inicie a modelagem do interior da caverna
 
-**Projeto:** Mountain Journey (Roblox)
+**Projeto:** The Journey (Roblox)
+
+### Dia 22: 09 de Setembro, 2024
+
+**Progresso:** Dei progresso na estruturação das plataformas e caminhos na caverna.
+
+**Projeto:** The Journey (Roblox)
