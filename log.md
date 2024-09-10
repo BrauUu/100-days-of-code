@@ -155,3 +155,9 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Progresso:** Dei progresso na estruturação das plataformas e caminhos na caverna.
 
 **Projeto:** The Journey (Roblox)
+
+### Dia 23: 10 de Setembro, 2024
+
+**Progresso:** Scriptei a ação no botão, dei andamento na construção do caminho.
+
+**Projeto:** The Journey (Roblox)
