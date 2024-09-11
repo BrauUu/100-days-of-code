@@ -161,3 +161,9 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Progresso:** Scriptei a ação no botão, dei andamento na construção do caminho.
 
 **Projeto:** The Journey (Roblox)
+
+### Dia 24: 11 de Setembro, 2024
+
+**Progresso:** Implementei as cutscenes da fase 1.
+
+**Projeto:** The Journey (Roblox)
