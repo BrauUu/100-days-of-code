@@ -167,3 +167,9 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Progresso:** Implementei as cutscenes da fase 1.
 
 **Projeto:** The Journey (Roblox)
+
+### Dia 25: 12 de Setembro, 2024
+
+**Progresso:** Implementei a cutscene ao interagir com o botão; otimização do código da parte da cutscene/botão/plataforma escondida; iniciei implementação da bola que rola e mata o player.
+
+**Projeto:** The Journey (Roblox)
