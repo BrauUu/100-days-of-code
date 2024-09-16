@@ -181,3 +181,11 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Pensamento:** O processo de implementação foi mais custoso do que esperava para uma funcionalidade simples.
 
 **Projeto:** The Journey (Roblox)
+
+### Dia 27: 15 de Setembro, 2024
+
+**Progresso:** Implementei uma opção para pular a cutscene; correção para os sons estarem atrelados aos objetos (assim quanto mais longe menor o som).
+
+**Pensamento:** Me diverti implementando tudo isso hoje.
+
+**Projeto:** The Journey (Roblox)
