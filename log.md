@@ -195,3 +195,11 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Progresso:** Implementei a opção para pular a cutscene e contador de moedas no mapa da caverna; correção para os sons estarem atrelados aos objetos no mapa da caverna; agora o boulder também tem som
 
 **Projeto:** The Journey (Roblox)
+
+### Dia 29: 19 de Setembro, 2024
+
+**Progresso:** Finalizei de maneira geral, terminei o mapa da caverna, e vinculei o teleporte entre os mapas corretamente.
+
+**Pensamento:** Agora é fazer alguns ajustes e dar como concluído o projeto
+
+**Projeto:** The Journey (Roblox)
