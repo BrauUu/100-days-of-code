@@ -203,3 +203,15 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Pensamento:** Agora é fazer alguns ajustes e dar como concluído o projeto
 
 **Projeto:** The Journey (Roblox)
+
+### Dia 30: 20 de Setembro, 2024
+
+**Progresso:** Correção nas cutscenes + cutscene do mapa da caverna
+
+**Projeto:** The Journey (Roblox)
+
+### Dia 31: 21 de Setembro, 2024
+
+**Progresso:** Correções nos tempos das plataformas que somem/quebram/movimentam, ajustes pontuais, mais boulders, embelezamento do pico mais alto do mapa da montanha
+
+**Projeto:** The Journey (Roblox)
