@@ -215,3 +215,11 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Progresso:** Correções nos tempos das plataformas que somem/quebram/movimentam, ajustes pontuais, mais boulders, embelezamento do pico mais alto do mapa da montanha
 
 **Projeto:** The Journey (Roblox)
+
+### Dia 32: 22 de Setembro, 2024
+
+**Progresso:** Dados de contagem de moedas persiste por usuário
+
+**Pensamento:** Demorei bem mais que eu gostaria para fazer funcionar tudo corretamente (ainda pendente implementar a mesma lógica na cutscene)
+
+**Projeto:** The Journey (Roblox)
