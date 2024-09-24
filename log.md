@@ -223,3 +223,9 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Pensamento:** Demorei bem mais que eu gostaria para fazer funcionar tudo corretamente (ainda pendente implementar a mesma lógica na cutscene)
 
 **Projeto:** The Journey (Roblox)
+
+### Dia 33: 23 de Setembro, 2024
+
+**Progresso:** Dados de contagem de moedas e cutscene persiste por usuário agora também na caverna
+
+**Projeto:** The Journey (Roblox)
