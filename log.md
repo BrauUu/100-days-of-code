@@ -229,3 +229,17 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Progresso:** Dados de contagem de moedas e cutscene persiste por usuário agora também na caverna
 
 **Projeto:** The Journey (Roblox)
+
+### Dia 34: 25 de Setembro, 2024
+
+**Progresso:** Teleporte para spawn locations diferentes funcional
+
+**Pensamento:** Quebrei muito a cabeça e no final ficou mais simples, tudo feito no servidor, sem eventos e scripts locais para buscar dados.
+
+**Projeto:** The Journey (Roblox)
+
+### Dia 35: 26 de Setembro, 2024
+
+**Progresso:** Melhoras no código desenvolvidos nos dias anteriores
+
+**Projeto:** The Journey (Roblox)
