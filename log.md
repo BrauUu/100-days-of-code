@@ -243,3 +243,15 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Progresso:** Melhoras no código desenvolvidos nos dias anteriores
 
 **Projeto:** The Journey (Roblox)
+
+### Dia 36: 28 de Setembro, 2024
+
+**Progresso:** Correções pontuais em renderização de moedas
+
+**Projeto:** The Journey (Roblox)
+
+### Dia 37: 30 de Setembro, 2024
+
+**Progresso:** O teleporte entre os “Places” agora está correto, exibindo tela de loading ao interagir com o portal, e removendo o som do mundo durante o loading.
+
+**Projeto:** The Journey (Roblox)
