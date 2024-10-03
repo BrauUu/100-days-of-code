@@ -255,3 +255,9 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Progresso:** O teleporte entre os “Places” agora está correto, exibindo tela de loading ao interagir com o portal, e removendo o som do mundo durante o loading.
 
 **Projeto:** The Journey (Roblox)
+
+### Dia 38: 02 de Outubro, 2024
+
+**Progresso: Implementação de cronômetro, mesmo com algumas correções pendentes.**
+
+**Projeto:** The Journey (Roblox)
