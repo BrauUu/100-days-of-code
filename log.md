@@ -267,3 +267,9 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Progresso:** Implementação de tela de GameOver, ao finalizar o jogo, e lógica para finalizar o jogo de fato.
 
 **Projeto:** The Journey (Roblox)
+
+### Dia 40: 06 de Outubro, 2024
+
+**Progresso:** Finalizando a implementação da tela de game over, junto de toda a lógica de leaderboard, retry e informações dinâmicas na tela de gameover
+
+**Projeto:** The Journey (Roblox)
