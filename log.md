@@ -261,3 +261,9 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Progresso: Implementação de cronômetro, mesmo com algumas correções pendentes.**
 
 **Projeto:** The Journey (Roblox)
+
+### Dia 39: 05 de Outubro, 2024
+
+**Progresso:** Implementação de tela de GameOver, ao finalizar o jogo, e lógica para finalizar o jogo de fato.
+
+**Projeto:** The Journey (Roblox)
