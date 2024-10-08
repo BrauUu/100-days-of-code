@@ -273,3 +273,9 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Progresso:** Finalizando a implementação da tela de game over, junto de toda a lógica de leaderboard, retry e informações dinâmicas na tela de gameover
 
 **Projeto:** The Journey (Roblox)
+
+### Dia 40: 07 de Outubro, 2024
+
+**Progresso:** Correção de bugs em tela de gameover e melhorias de código, desabilitar default gui
+
+**Projeto:** The Journey (Roblox)
