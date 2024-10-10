@@ -279,3 +279,15 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Progresso:** Correção de bugs em tela de gameover e melhorias de código, desabilitar default gui
 
 **Projeto:** The Journey (Roblox)
+
+### Dia 41: 08 de Outubro, 2024
+
+**Progresso:** Opção de retry após finalizar o jogo
+
+**Projeto:** The Journey (Roblox)
+
+### Dia 42: 09 de Outubro, 2024
+
+**Progresso:** Implementação de placar com melhores scores
+
+**Projeto:** The Journey (Roblox)
