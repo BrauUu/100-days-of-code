@@ -291,3 +291,9 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Progresso:** Implementação de placar com melhores scores
 
 **Projeto:** The Journey (Roblox)
+
+### Dia 43: 10 de Outubro, 2024
+
+**Progresso:** Continuação da implementação de placar com melhores scores e ajustes para testes em servidores reais
+
+**Projeto:** The Journey (Roblox)
