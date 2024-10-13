@@ -297,3 +297,15 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Progresso:** Continuação da implementação de placar com melhores scores e ajustes para testes em servidores reais
 
 **Projeto:** The Journey (Roblox)
+
+### Dia 44: 11 de Outubro, 2024
+
+**Progresso:** Correções em transferência de dados entre locais
+
+**Projeto:** The Journey (Roblox)
+
+### Dia 45: 12 de Outubro, 2024
+
+**Progresso:** Últimas correções necessárias para o funcionamento do game, ransferência de dados entre locais, correções em spawn, ajuste no leaderboard e timer
+
+**Projeto:** The Journey (Roblox)
