@@ -309,3 +309,9 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Progresso:** Últimas correções necessárias para o funcionamento do game, ransferência de dados entre locais, correções em spawn, ajuste no leaderboard e timer
 
 **Projeto:** The Journey (Roblox)
+
+### Dia 46: 17 de Outubro, 2024
+
+**Progresso:** Conjunto de ajustes: Ajuste em reset de timer; Ajuste em atualização dinâmica do leaderboard; Ajuste em salvamento de dados referentes ao leaderboard
+
+**Projeto:** The Journey (Roblox)
