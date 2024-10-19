@@ -315,3 +315,9 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Progresso:** Conjunto de ajustes: Ajuste em reset de timer; Ajuste em atualização dinâmica do leaderboard; Ajuste em salvamento de dados referentes ao leaderboard
 
 **Projeto:** The Journey (Roblox)
+
+### Dia 47: 19 de Outubro, 2024
+
+**Progresso:** Correções relacionadas a persistência de dados
+
+**Projeto:** The Journey (Roblox)
