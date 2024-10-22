@@ -321,3 +321,17 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Progresso:** Correções relacionadas a persistência de dados
 
 **Projeto:** The Journey (Roblox)
+
+### Dia 48: 20 de Outubro, 2024
+
+**Progresso:** Correções relacionadas a persistência de dados ao dar retry
+
+**Projeto:** The Journey (Roblox)
+
+### Dia 49: 21 de Outubro, 2024
+
+**Progresso:** Correções relacionadas a moedas e dar retry, correção em problema com scriptModule
+
+**Pensamento:** Caso scripts diferentes importem um mesmo módulo, variáveis locais (que estão no escopo do script) não serão as mesmas para cada uma das importações.
+
+**Projeto:** The Journey (Roblox)
