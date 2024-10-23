@@ -335,3 +335,9 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Pensamento:** Caso scripts diferentes importem um mesmo módulo, variáveis locais (que estão no escopo do script) não serão as mesmas para cada uma das importações.
 
 **Projeto:** The Journey (Roblox)
+
+### Dia 50: 22 de Outubro, 2024
+
+**Progresso:** Refatoração do código em geral, utilização de eventos para comunicação entre scripts, criação de scripts para funções repetidas, correções em: Cutscenes, Timer, Spawn e etc…
+
+**Projeto:** The Journey (Roblox)
