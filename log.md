@@ -341,3 +341,11 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Progresso:** Refatoração do código em geral, utilização de eventos para comunicação entre scripts, criação de scripts para funções repetidas, correções em: Cutscenes, Timer, Spawn e etc…
 
 **Projeto:** The Journey (Roblox)
+
+### Dia 51: 23 de Outubro, 2024
+
+**Progresso:** Refatoração em módulo de dados (PlayerData) e Timer (Client)
+
+**Pensamento:** Perdi muito tempo por fazer uma implementação que não funciona como eu esperava (transformei em script mas precisava ser moduleScript)
+
+**Projeto:** The Journey (Roblox)
