@@ -349,3 +349,9 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Pensamento:** Perdi muito tempo por fazer uma implementação que não funciona como eu esperava (transformei em script mas precisava ser moduleScript)
 
 **Projeto:** The Journey (Roblox)
+
+### Dia 52: 24 de Outubro, 2024
+
+**Progresso:** Refatoração no método utilizado para buscar a posição do usuário, afim de ganhar desempenho (busca binária)
+
+**Projeto:** The Journey (Roblox)
