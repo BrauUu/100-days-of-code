@@ -355,3 +355,11 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Progresso:** Refatoração no método utilizado para buscar a posição do usuário, afim de ganhar desempenho (busca binária)
 
 **Projeto:** The Journey (Roblox)
+
+### Dia 53: 29 de Outubro, 2024
+
+**Progresso:** Aplicação de refatoração feita no mapa da montanha no mapa da caverna + algumas correções pontuais
+
+**Pensamento:** Decorrente das mudanças o timer está com diversos problemas., não sei exatamente o que impactou
+
+**Projeto:** The Journey (Roblox)
