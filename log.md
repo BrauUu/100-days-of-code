@@ -363,3 +363,9 @@ Haviam bastante lógicas duplicadas ou desnecessárias, melhorei o código.
 **Pensamento:** Decorrente das mudanças o timer está com diversos problemas., não sei exatamente o que impactou
 
 **Projeto:** The Journey (Roblox)
+
+### Dia 54: 31 de Outubro, 2024
+
+**Progresso: A**justes necessários pela refatoração, últimos ajustes
+
+**Projeto:** The Journey (Roblox)
