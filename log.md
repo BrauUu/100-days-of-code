@@ -27,3 +27,9 @@
 **Progresso:** Inicialização do projeto e definições gerais
 
 **Projeto:** GTA SAN: Radio Stations
+
+### Dia 05: 27 de Novembro, 2024
+
+**Progresso:** Configuração do arquivo com as rádios, links para os aúdios, exibição das rádios e crição de controles
+
+**Projeto:** GTA SAN: Radio Stations
