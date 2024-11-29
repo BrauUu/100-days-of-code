@@ -33,3 +33,9 @@
 **Progresso:** Configuração do arquivo com as rádios, links para os aúdios, exibição das rádios e crição de controles
 
 **Projeto:** GTA SAN: Radio Stations
+
+### Dia 06: 29 de Novembro, 2024
+
+**Progresso:** Ao interagir com o ícone da rádio, o aúdio dessa rádio é definido como aúdio atual
+
+**Projeto:** GTA SAN: Radio Stations
