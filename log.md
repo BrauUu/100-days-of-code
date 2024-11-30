@@ -39,3 +39,9 @@
 **Progresso:** Ao interagir com o ícone da rádio, o aúdio dessa rádio é definido como aúdio atual
 
 **Projeto:** GTA SAN: Radio Stations
+
+### Dia 07: 30 de Novembro, 2024
+
+**Progresso:** Execução de aúdio e alteração de aúdio funcional, agora é possível manipular o player (pause, next, play, etc...)
+
+**Projeto:** GTA SAN: Radio Stations
