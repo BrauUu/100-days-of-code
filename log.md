@@ -51,3 +51,9 @@
 **Progresso:** Os botões agoram são funcionais e comunicam com o vídeo
 
 **Projeto:** GTA SAN: Radio Stations
+
+### Dia 09: 04 de Dezembro, 2024
+
+**Progresso:** As rádios agora estão sincronizadas em um timer universal e estão em loop
+
+**Projeto:** GTA SAN: Radio Stations
