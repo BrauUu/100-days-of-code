@@ -45,3 +45,9 @@
 **Progresso:** Execução de aúdio e alteração de aúdio funcional, agora é possível manipular o player (pause, next, play, etc...)
 
 **Projeto:** GTA SAN: Radio Stations
+
+### Dia 08: 03 de Dezembro, 2024
+
+**Progresso:** Os botões agoram são funcionais e comunicam com o vídeo
+
+**Projeto:** GTA SAN: Radio Stations
