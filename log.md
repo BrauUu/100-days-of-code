@@ -57,3 +57,9 @@
 **Progresso:** As rádios agora estão sincronizadas em um timer universal e estão em loop
 
 **Projeto:** GTA SAN: Radio Stations
+
+### Dia 10: 05 de Dezembro, 2024
+
+**Progresso:** Criação do carousel das rádios e ajustes pontuais
+
+**Projeto:** GTA SAN: Radio Stations
