@@ -63,3 +63,17 @@
 **Progresso:** Criação do carousel das rádios e ajustes pontuais
 
 **Projeto:** GTA SAN: Radio Stations
+
+### Dia 11: 06 de Dezembro, 2024
+
+**Progresso:** Adicionei dados das músicas da rádio “Master Sounds”, sendo estes dados: Nome da música, artista, tempo de inicio e fim
+
+**Pensamento:** Trabalho chato e manual, apesar da ajuda do GPT, e ainda tem muito dado a ser preenchido (todas as rádios)
+
+**Projeto:** GTA SAN: Radio Stations
+
+### Dia 12: 07 de Dezembro, 2024
+
+**Progresso:** Alterei 'actualRadioId' e sua lógica para obter dados de rádio para simplesmente salvar os dados de rádio no contexto, além de criar uma lógica para obter a música que está sendo reproduzida e exibir
+
+**Projeto:** GTA SAN: Radio Stations
