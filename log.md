@@ -77,3 +77,10 @@
 **Progresso:** Alterei 'actualRadioId' e sua lógica para obter dados de rádio para simplesmente salvar os dados de rádio no contexto, além de criar uma lógica para obter a música que está sendo reproduzida e exibir
 
 **Projeto:** GTA SAN: Radio Stations
+
+
+### Dia 13: 08 de Dezembro, 2024
+
+**Progresso:** Adicionei mais dados referentes as músicas das rádios e correções pequenas para a atualização correta das músicas ao alterar entre rádios.
+
+**Projeto:** GTA SAN: Radio Stations
