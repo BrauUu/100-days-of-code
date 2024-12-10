@@ -84,3 +84,15 @@
 **Progresso:** Adicionei mais dados referentes as músicas das rádios e correções pequenas para a atualização correta das músicas ao alterar entre rádios.
 
 **Projeto:** GTA SAN: Radio Stations
+
+### Dia 14: 09 de Dezembro, 2024
+
+**Progresso:** Finalizado a inserção dos dados das músicas das rádios
+
+**Projeto:** GTA SAN: Radio Stations
+
+### Dia 15: 10 de Dezembro, 2024
+
+**Progresso:** Adicionei sons, melhorias de estilo, muitas correções e melhorias.
+
+**Projeto:** GTA SAN: Radio Stations
