@@ -96,3 +96,9 @@
 **Progresso:** Adicionei sons, melhorias de estilo, muitas correções e melhorias.
 
 **Projeto:** GTA SAN: Radio Stations
+
+### Dia 16: 11 de Dezembro, 2024
+
+**Progresso:** Controle de volume, e melhorias de estilo: nova fonte, novo cursor.
+
+**Projeto:** GTA SAN: Radio Stations
