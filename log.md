@@ -102,3 +102,9 @@
 **Progresso:** Controle de volume, e melhorias de estilo: nova fonte, novo cursor.
 
 **Projeto:** GTA SAN: Radio Stations
+
+### Dia 16: 12 de Dezembro, 2024
+
+**Progresso:** Ajustes responsivos, correção em som do botão de volume, melhorias de código.
+
+**Projeto:** GTA SAN: Radio Stations
