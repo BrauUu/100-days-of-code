@@ -103,8 +103,14 @@
 
 **Projeto:** GTA SAN: Radio Stations
 
-### Dia 16: 12 de Dezembro, 2024
+### Dia 17: 12 de Dezembro, 2024
 
 **Progresso:** Ajustes responsivos, correção em som do botão de volume, melhorias de código.
+
+**Projeto:** GTA SAN: Radio Stations
+
+### Dia 18: 15 de Dezembro, 2024
+
+**Progresso:** Imagem dinâmica de fundo
 
 **Projeto:** GTA SAN: Radio Stations
