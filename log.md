@@ -114,3 +114,10 @@
 **Progresso:** Imagem dinâmica de fundo
 
 **Projeto:** GTA SAN: Radio Stations
+
+### Dia 19: 17 de Dezembro, 2024
+
+**Progresso:** Adição de som ao sincronizar rádio
+
+**Projeto:** GTA SAN: Radio Stations
+
