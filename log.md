@@ -121,3 +121,8 @@
 
 **Projeto:** GTA SAN: Radio Stations
 
+### Dia 20: 19 de Dezembro, 2024
+
+**Progresso:** Implementação de mini projeto “interactive-css”
+
+**Projeto:** Interactive CSS
