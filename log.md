@@ -126,3 +126,9 @@
 **Progresso:** Implementação de mini projeto “interactive-css”
 
 **Projeto:** Interactive CSS
+
+### Dia 21: 26 de Dezembro, 2024
+
+**Progresso:** Ajustes para migração de react pra next
+
+**Projeto:** Spiritfarer Recipes
