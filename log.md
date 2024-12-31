@@ -132,3 +132,27 @@
 **Progresso:** Ajustes para migração de react pra next
 
 **Projeto:** Spiritfarer Recipes
+
+### Dia 22: 27 de Dezembro, 2024
+
+**Progresso:** Ajustes para migração de react pra next
+
+**Projeto:** Spiritfarer Recipes
+
+### Dia 23: 28 de Dezembro, 2024
+
+**Progresso:** Melhorias de código
+
+**Projeto:** Spiritfarer Recipes
+
+### Dia 24: 29 de Dezembro, 2024
+
+**Progresso:** Ajuste em imagens e mudança para tailwind
+
+**Projeto:** Spiritfarer Recipes
+
+### Dia 25: 30 de Dezembro, 2024
+
+**Progresso:** Ajuste em imagens e mudança para tailwind
+
+**Projeto:** Spiritfarer Recipes
