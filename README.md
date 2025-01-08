@@ -21,3 +21,9 @@
 **Progresso:** Inserção dos dados no banco.
 
 **Projeto:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
+### Dia 06: 07 de Janeiro de 2025
+
+**Progresso:** Mudanças de estilo para paracer mais com o jogo, finalização da inserção dos dados no banco
+
+**Projeto:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
