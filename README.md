@@ -28,8 +28,20 @@
 
 **Projeto:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
 
-### Dia 07: 07=8 de Janeiro de 2025
+### Dia 07: 08 de Janeiro de 2025
 
 **Progresso:** Mudanças de estilo para paracer mais com o jogo
+
+**Projeto:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
+### Dia 08: 09 de Janeiro de 2025
+
+**Progresso:** Ordenação das receitas, criação de variáveis de ambiente, ajustes visuais, troca de nome dos ingredientes dinâmica, algumas correções nos dados
+
+**Projeto:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
+### Dia 09: 10 de Janeiro de 2025
+
+**Progresso:** Controles e receita selecionada em destaque
 
 **Projeto:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
