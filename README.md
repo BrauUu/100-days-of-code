@@ -45,3 +45,17 @@
 **Progresso:** Controles e receita selecionada em destaque
 
 **Projeto:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
+
+### Dia 10 : 11 de Janeiro de 2025
+
+**Progresso:** Correções pontuais de estilo
+
+**Projeto:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
+
+### Dia 10 : 11 de Janeiro de 2025
+
+**Progresso:** Responsivo e correções em navegação via arrows
+
+**Projeto:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
