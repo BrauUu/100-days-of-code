@@ -65,3 +65,9 @@
 **Progresso:** Atualizações no portfólio e deixando atualização dinâmica
 
 **Projeto:** [Portfolio](https://brauuu.com.br/)
+
+### Dia 13 : 15 de Janeiro de 2025
+
+**Progresso:** Atualizações no portfólio finais
+
+**Projeto:** [Portfolio](https://brauuu.com.br/)
