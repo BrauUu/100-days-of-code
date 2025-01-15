@@ -54,8 +54,14 @@
 **Projeto:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
 
 
-### Dia 10 : 11 de Janeiro de 2025
+### Dia 11 : 12 de Janeiro de 2025
 
 **Progresso:** Responsivo e correções em navegação via arrows
 
 **Projeto:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
+### Dia 12 : 14 de Janeiro de 2025
+
+**Progresso:** Atualizações no portfólio e deixando atualização dinâmica
+
+**Projeto:** [Portfolio](https://brauuu.com.br/)
