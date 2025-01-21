@@ -71,3 +71,10 @@
 **Progresso:** Atualizações no portfólio finais
 
 **Projeto:** [Portfolio](https://brauuu.com.br/)
+
+
+### Dia 14 : 20 de Janeiro de 2025
+
+**Progresso:** Atualizações no portfólio relacionadas aos projetos
+
+**Projeto:** [Portfolio](https://brauuu.com.br/)
