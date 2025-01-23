@@ -78,3 +78,9 @@
 **Progresso:** Atualizações no portfólio relacionadas aos projetos
 
 **Projeto:** [Portfolio](https://brauuu.com.br/)
+
+### Dia 15 : 22 de Janeiro de 2025
+
+**Progresso:** Inicio da implementação da tela de cozinhar
+
+**Projeto:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
