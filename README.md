@@ -84,3 +84,9 @@
 **Progresso:** Inicio da implementação da tela de cozinhar
 
 **Projeto:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
+### Dia 16 : 23 de Janeiro de 2025
+
+**Progresso:** Criação de contexto e background dinâmico de acordo com o horário
+
+**Projeto:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
