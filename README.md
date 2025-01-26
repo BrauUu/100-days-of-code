@@ -1,6 +1,6 @@
 # 100 Days Of Code - Logs
 
-## **Como está iniciando um novo ano optei por recomençar a contagem com obejtivo de não faltar nenhum dia até o termino do desafio.**
+## **Como está iniciando um novo ano optei por recomençar a contagem com objetivo de não faltar nenhum dia até o termino do desafio.**
 
 ### Dia 00: 01 de Janeiro de 2025
 
