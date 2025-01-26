@@ -90,3 +90,16 @@
 **Progresso:** Criação de contexto e background dinâmico de acordo com o horário
 
 **Projeto:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
+### Dia 17 : 24 de Janeiro de 2025
+
+**Progresso:** Correções e ajustes para funcionamento do 'context'
+
+**Projeto:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
+### Dia 18 : 26 de Janeiro de 2025
+
+**Progresso:** Criação de api de 'ingredients' e ajustes pontuais
+
+**Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+              [Spiritfarer Recipes API] (https://spiritfarer-recipes-api.onrender.com)
