@@ -102,3 +102,9 @@
 **Progresso:** Criação de api de 'ingredients' e ajustes pontuais
 
 **Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/) [Spiritfarer Recipes API](https://spiritfarer-recipes-api.onrender.com)
+
+### Dia 19 : 27 de Janeiro de 2025
+
+**Progresso:** Implementação da api de 'ingredients' no frontend e dados de localstorage
+
+**Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
