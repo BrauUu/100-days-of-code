@@ -108,3 +108,9 @@
 **Progresso:** Implementação da api de 'ingredients' no frontend e dados de localstorage
 
 **Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
+### Dia 20: 28 de Janeiro de 2025
+
+**Progresso:** Inicio da implementação da área de cozinha, título dinâmico
+
+**Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
