@@ -138,3 +138,9 @@
 **Progresso:** Imagens das categorias dos ingredientes mudam de cor; Mais ingredientes e separação por categoria funcional
 
 **Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
+### Dia 25: 04 de Fevereiro de 2025
+
+**Progresso:** Progresso na implementação da área de cozinha
+
+**Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
