@@ -144,3 +144,9 @@
 **Progresso:** Progresso na implementação da área de cozinha
 
 **Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
+### Dia 26: 05 de Fevereiro de 2025
+
+**Progresso:** Adição/remoção de ingredientes na receita
+
+**Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
