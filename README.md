@@ -150,3 +150,9 @@
 **Progresso:** Adição/remoção de ingredientes na receita
 
 **Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
+### Dia 27: 06 de Fevereiro de 2025
+
+**Progresso:** Montagem de objeto para inserção de mais ingredientes no banco
+
+**Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
