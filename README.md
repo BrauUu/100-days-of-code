@@ -156,3 +156,9 @@
 **Progresso:** Montagem de objeto para inserção de mais ingredientes no banco
 
 **Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
+### Dia 28: 11 de Fevereiro de 2025
+
+**Progresso:** Mais informações de ingredientes
+
+**Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
