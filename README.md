@@ -168,3 +168,9 @@
 **Progresso:** Finalização das informações dos ingredientes "obrigatórios", pendente aos ingredientes sem diferencial.
 
 **Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
+### Dia 30: 13 de Fevereiro de 2025
+
+**Progresso:** Finalização das informações de todos os ingredientes, criação de rotas de update
+
+**Projetos:** [Spiritfarer Recipes API](https://spiritfarer-recipes-api.onrender.com)
