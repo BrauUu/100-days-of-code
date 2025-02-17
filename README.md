@@ -174,3 +174,9 @@
 **Progresso:** Finalização das informações de todos os ingredientes, criação de rotas de update
 
 **Projetos:** [Spiritfarer Recipes API](https://spiritfarer-recipes-api.onrender.com)
+
+### Dia 31: 16 de Fevereiro de 2025
+
+**Progresso:** Primeira implementação do funcionalidade de cozinhar; Padronização dos ingredientes das receitas
+
+**Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/) [Spiritfarer Recipes API](https://spiritfarer-recipes-api.onrender.com)
