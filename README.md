@@ -180,3 +180,10 @@
 **Progresso:** Primeira implementação do funcionalidade de cozinhar; Padronização dos ingredientes das receitas
 
 **Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/) [Spiritfarer Recipes API](https://spiritfarer-recipes-api.onrender.com)
+
+### Dia 32: 17 de Fevereiro de 2025
+
+**Progresso:** Revisando e corrigindo projetos anteriores
+
+Projetos:** [GTA SAN: Radios](https://gta-san-radio-stations.vercel.app/) [Portfólio](https://brauuu.com.br/)
+
