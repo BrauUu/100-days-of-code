@@ -187,3 +187,9 @@
 
 Projetos:** [GTA SAN: Radios](https://gta-san-radio-stations.vercel.app/) [Portfólio](https://brauuu.com.br/)
 
+### Dia 33: 18 de Fevereiro de 2025
+
+**Progresso:** Revisando e corrigindo projetos anteriores
+
+Projetos:** [Snake Game](https://brauuu.github.io/snake-game/)
+
