@@ -193,3 +193,10 @@ Projetos:** [GTA SAN: Radios](https://gta-san-radio-stations.vercel.app/) [Portf
 
 Projetos:** [Snake Game](https://brauuu.github.io/snake-game/)
 
+### Dia 34: 19 de Fevereiro de 2025
+
+**Progresso:** Versão mobile funcional
+
+Projetos:** [Snake Game](https://brauuu.github.io/snake-game/)
+
+
