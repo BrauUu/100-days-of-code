@@ -199,4 +199,10 @@ Projetos:** [Snake Game](https://brauuu.github.io/snake-game/)
 
 Projetos:** [Snake Game](https://brauuu.github.io/snake-game/)
 
+### Dia 35: 23 de Fevereiro de 2025
+
+**Progresso:** Correções na funcionalidade de cozinhar e modal de novo ingrediente
+
+Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
 
