@@ -205,4 +205,9 @@ Projetos:** [Snake Game](https://brauuu.github.io/snake-game/)
 
 Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
 
+### Dia 36: 10 de Fevereiro de 2025
+
+**Progresso:** Voltando a ativa; modal de novo ingrediente, após código perdido
+
+Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
 
