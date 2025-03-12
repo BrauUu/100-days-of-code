@@ -211,3 +211,11 @@ Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
 
 Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
 
+### Dia 37: 11 de Fevereiro de 2025
+
+**Progresso:** Tentativa falha de implementação de receitas ocultas 
+
+**Pensamento:** Todas as imagens das receitas não apresentam transparência, ou seja, a implementação desejada não é possível com estas imagens. Não vale a pena editar todas elas, tendo que seguir um novo caminho.
+
+Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
