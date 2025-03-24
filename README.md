@@ -9,3 +9,22 @@
 
 Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
 
+### Dia 01: 21 de Março de 2025
+
+**Progresso:** Implementação de pop up ao criar receita
+
+Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
+### Dia 02: 22 de Março de 2025
+
+**Progresso:** Implementação de animações e micro interações
+
+Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
+### Dia 03: 23 de Março de 2025
+
+**Progresso:** Implementação de animações e micro interações
+
+Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
+
