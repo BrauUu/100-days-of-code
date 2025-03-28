@@ -27,4 +27,8 @@ Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
 
 Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
 
+### Dia 04 a 09: 24 a 28 de Março de 2025
 
+**Progresso:** Ajuste nas receitas do banco, inserindo os ingredientes no formato esperado
+
+Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
