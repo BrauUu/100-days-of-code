@@ -32,3 +32,10 @@ Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
 **Progresso:** Ajuste nas receitas do banco, inserindo os ingredientes no formato esperado, e outros ajustes pontuais
 
 Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
+
+### Dia 12: 07 de Abril de 2025
+
+**Progresso:** Navegação entre categorias de ingredientes e entre telas pelo teclado
+
+Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
