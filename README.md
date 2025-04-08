@@ -33,7 +33,6 @@ Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
 
 Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
 
-
 ### Dia 12: 07 de Abril de 2025
 
 **Progresso:** Navegação entre categorias de ingredientes e entre telas pelo teclado
