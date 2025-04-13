@@ -44,3 +44,10 @@ Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
 **Progresso:** Documentação da API
 
 Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
+### Dia 14: 12 de Abril de 2025
+
+**Progresso:** Documentação da API finalziada
+
+Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
