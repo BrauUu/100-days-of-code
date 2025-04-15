@@ -51,3 +51,8 @@ Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
 
 Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
 
+### Dia 15: 14 de Abril de 2025
+
+**Progresso:** Correções pontuais no controle de volume
+
+Projetos:** [GTA: Radio Stations](https://gta-san-radio-stations.vercel.app/)
