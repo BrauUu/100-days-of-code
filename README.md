@@ -56,3 +56,10 @@ Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
 **Progresso:** Correções pontuais no controle de volume
 
 Projetos:** [GTA: Radio Stations](https://gta-san-radio-stations.vercel.app/)
+
+### Dia 16: 15 de Abril de 2025
+
+**Progresso:** Inicio da implementação do responsivo
+
+Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
