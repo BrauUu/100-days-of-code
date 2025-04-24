@@ -80,3 +80,10 @@
 **Progresso:** Adição de comandos para adicionar e remover ingredientes no mobile
 
 **Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
+### Dia 20: 24 de Abril de 2025
+
+**Progresso:** Correções pontuais no mobile
+
+**Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
