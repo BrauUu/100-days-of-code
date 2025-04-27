@@ -87,3 +87,10 @@
 
 **Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
 
+### Dia 21: 27 de Abril de 2025
+
+**Progresso:** Últimos ajustes 
+
+**Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/) [Spiritfarer Recipes API](https://spiritfarer-recipes-api.onrender.com)
+
+
