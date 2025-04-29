@@ -94,3 +94,10 @@
 **Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/) [Spiritfarer Recipes API](https://spiritfarer-recipes-api.onrender.com)
 
 
+### Dia 22: 28 de Abril de 2025
+
+**Progresso:** Ajustes para atualização do host do backend
+
+**Pensamento:** O host escolhido (Render) apresentava uma 
+
+**Projetos:** [Spiritfarer Recipes API](https://spiritfarer-recipes-api.onrender.com)
