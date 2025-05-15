@@ -23,3 +23,9 @@
 **Progresso:** Ajustes pontuais no ambiente
 
 **Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
+### Dia 04 e 05: 14 e 15 de Maio de 2025
+
+**Progresso:** Tratativa para problema com otimização de imagens na vercel
+
+**Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
