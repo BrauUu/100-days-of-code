@@ -29,3 +29,9 @@
 **Progresso:** Tratativa para problema com otimização de imagens na vercel
 
 **Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+
+### Dia 06 e 08: 16 a 18 de Maio de 2025
+
+**Progresso:** Estudo e desenvolvimento do primeiro game utilizando Godot.
+
+**Projetos:** First 2D Game in Godot
