@@ -30,8 +30,18 @@
 
 **Projetos:** [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
 
-### Dia 06 e 08: 16 a 18 de Maio de 2025
+### Dia 06 a 10: 16 a 20 de Maio de 2025
 
 **Progresso:** Estudo e desenvolvimento do primeiro game utilizando Godot.
 
-**Projetos:** First 2D Game in Godot
+**Projetos:** [I don't like space rocks](https://brauuu.github.io/i_don-t_like_space_rocks/)
+
+### Dia 11 a 18: 21 a 28 de Maio de 2025
+
+**Progresso:** 
+- Desenvolimento de primeiro jogo de plataforma (pessoal) em Godot
+- Ajustes relacionados as imagens e tratamento de erro em Spiritfarer Recipes.
+
+**Projetos:** 
+[Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
+First 2D platform game in Godot
