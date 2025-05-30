@@ -45,3 +45,9 @@
 **Projetos:** 
 [Spiritfarer Recipes](https://spiritfarer-recipes.vercel.app/)
 First 2D platform game in Godot
+
+### Dia 19: 29 de Maio de 2025
+
+**Progresso:** Implementação de Herança em scenes/script aptos
+
+**Projetos:** First 2D platform game in Godot
