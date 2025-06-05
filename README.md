@@ -51,3 +51,23 @@ First 2D platform game in Godot
 **Progresso:** Implementação de Herança em scenes/script aptos
 
 **Projetos:** First 2D platform game in Godot
+
+### Dia 20 a 23 : 30 de Maio a 02 de Junho de 2025
+
+**Progresso:** Alteração de Herança para Composição de componentes e uma porrada de ajustes necessário
+
+**Pensamento:** Foram necessários muitos ajustes para que a composição funcionasse, e ainda há ajustes pendentes. Porém utilizar composição agrega muito na organização e reutilização
+
+**Projetos:** First 2D platform game in Godot
+
+### Dia 24: 03 de Junho de 2025
+
+**Progresso:** Implementação de módulo de perseguição dos inimigos
+
+**Projetos:** First 2D platform game in Godot
+
+### Dia 25: 04 de Junho de 2025
+
+**Progresso:** Correções e melhorias no módulo de perseguição; correções relacionadas a mudança para composição.
+
+**Projetos:** First 2D platform game in Godot
