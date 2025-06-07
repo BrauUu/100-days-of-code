@@ -71,3 +71,15 @@ First 2D platform game in Godot
 **Progresso:** Correções e melhorias no módulo de perseguição; correções relacionadas a mudança para composição.
 
 **Projetos:** First 2D platform game in Godot
+
+### Dia 26: 05 de Junho de 2025
+
+**Progresso:** Migração das interações do jogador com a UI a partir do game manager
+
+**Projetos:** First 2D platform game in Godot
+
+### Dia 27: 06 de Junho de 2025
+
+**Progresso:** Melhorias na "inteligência" dos inimigos
+
+**Projetos:** First 2D platform game in Godot
