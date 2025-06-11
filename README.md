@@ -84,9 +84,9 @@ First 2D platform game in Godot
 
 **Projetos:** First 2D platform game in Godot
 
-### Dia 28 a 30: 07 a 09 de Junho de 2025
+### Dia 28 a 31: 07 a 10 de Junho de 2025
 
-**Progresso:** Melhorias na "inteligência" dos inimigos
+**Progresso:** Melhorias e correções na "inteligência" dos inimigos
 
 **Projetos:** First 2D platform game in Godot
 
