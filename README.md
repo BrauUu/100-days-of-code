@@ -90,3 +90,8 @@ First 2D platform game in Godot
 
 **Projetos:** First 2D platform game in Godot
 
+### Dia 29: 17 de Junho de 2025
+
+**Progresso:** Implementação de objetos interativos, puxando e empurando; Pequenas correções pontuais nos scripts
+
+**Projetos:** First 2D platform game in Godot
