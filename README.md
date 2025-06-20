@@ -101,3 +101,9 @@ First 2D platform game in Godot
 **Progresso:** Implementação de Máquina de Estado
 
 **Projetos:** First 2D platform game in Godot
+
+### Dia 34: 19 de Junho de 2025
+
+**Progresso:** Finalização da mplementação da Máquina de Estado + animações
+
+**Projetos:** First 2D platform game in Godot
