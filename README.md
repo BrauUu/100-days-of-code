@@ -119,3 +119,9 @@ First 2D platform game in Godot
 **Progresso:** Mudança na forma como funciona o "estado" quando os personagens são feridos
 
 **Projetos:** First 2D platform game in Godot
+
+### Dia 41: 01 de Julho de 2025
+
+**Progresso:** Implementação de menu com cenário do game de fundo.
+
+**Projetos:** First 2D platform game in Godot
