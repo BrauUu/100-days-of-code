@@ -125,3 +125,16 @@ First 2D platform game in Godot
 **Progresso:** Implementação de menu com cenário do game de fundo.
 
 **Projetos:** First 2D platform game in Godot
+
+### Dia 42: 05 de Julho de 2025
+
+**Progresso:** Mudanças em personagem para que se comporte corretamente no menu.
+
+**Projetos:** First 2D platform game in Godot
+
+### Dia 43: 06 de Julho de 2025
+
+**Progresso:** Implementação de GamepadTypeManager
+
+**Projetos:** First 2D platform game in Godot
+
