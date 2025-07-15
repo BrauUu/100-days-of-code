@@ -155,3 +155,9 @@ First 2D platform game in Godot
 **Progresso:** Cutscene inicial e transições em ações dos menus (pause, tela de morte...)
 
 **Projetos:** First 2D platform game in Godot
+
+### Dia 47: 14 de Julho de 2025
+
+**Progresso:** Inicio de implementação de tutorial de botões do jogo
+
+**Projetos:** First 2D platform game in Godot
