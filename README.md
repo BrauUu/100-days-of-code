@@ -158,6 +158,12 @@ First 2D platform game in Godot
 
 ### Dia 47: 14 de Julho de 2025
 
-**Progresso:** Inicio de implementação de tutorial de botões do jogo
+**Progresso:** Inicio de implementação de tutorial dos botões do jogo
+
+**Projetos:** First 2D platform game in Godot
+
+### Dia 48: 15 de Julho de 2025
+
+**Progresso:** Progresso na implementação de tutorial dos botões do jogo
 
 **Projetos:** First 2D platform game in Godot
