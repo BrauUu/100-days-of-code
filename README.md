@@ -167,3 +167,9 @@ First 2D platform game in Godot
 **Progresso:** Progresso na implementação de tutorial dos botões do jogo
 
 **Projetos:** First 2D platform game in Godot
+
+### Dia 49: 16 de Julho de 2025
+
+**Progresso:** Andamento de level design, tutorial, variação de cores nos pássaros.
+
+**Projetos:** First 2D platform game in Godot
