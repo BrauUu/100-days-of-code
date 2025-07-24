@@ -179,3 +179,27 @@ First 2D platform game in Godot
 **Progresso:** Andamento de level design e correções pontuais.
 
 **Projetos:** First 2D platform game in Godot
+
+### Dia 51: 18 de Julho de 2025
+
+**Progresso:** Correções pontuais.
+
+**Projetos:** First 2D platform game in Godot
+
+### Dia 52: 21 de Julho de 2025
+
+**Progresso:** Remove game over e contador de vidas; correções do menu; alguns sons
+
+**Projetos:** First 2D platform game in Godot
+
+### Dia 53: 22 de Julho de 2025
+
+**Progresso:** Som interagindo com pedra e fake terrain
+
+**Projetos:** First 2D platform game in Godot
+
+### Dia 54: 23 de Julho de 2025
+
+**Progresso:** Correção em perseguição do inimigo
+
+**Projetos:** First 2D platform game in Godot
