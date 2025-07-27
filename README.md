@@ -203,3 +203,9 @@ First 2D platform game in Godot
 **Progresso:** Correção em perseguição do inimigo
 
 **Projetos:** First 2D platform game in Godot
+
+### Dia 55: 26 de Julho de 2025
+
+**Progresso:** Implementação em melhorias nos inimigos e baú.
+
+**Projetos:** First 2D platform game in Godot
