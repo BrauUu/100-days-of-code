@@ -209,3 +209,9 @@ First 2D platform game in Godot
 **Progresso:** Implementação em melhorias nos inimigos e baú.
 
 **Projetos:** First 2D platform game in Godot
+
+### Dia 56: 27 de Julho de 2025
+
+**Progresso:** Implementação de baú funcional e tesouros (moedas)
+
+**Projetos:** First 2D platform game in Godot
