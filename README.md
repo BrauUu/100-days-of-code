@@ -215,3 +215,10 @@ First 2D platform game in Godot
 **Progresso:** Implementação de baú funcional e tesouros (moedas)
 
 **Projetos:** First 2D platform game in Godot
+
+### Dia 57: 28 de Julho de 2025
+
+**Progresso:** Implementação de alguns efeitos sonoros
+
+**Projetos:** First 2D platform game in Godot
+
