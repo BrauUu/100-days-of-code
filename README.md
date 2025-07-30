@@ -222,3 +222,8 @@ First 2D platform game in Godot
 
 **Projetos:** First 2D platform game in Godot
 
+### Dia 58: 29 de Julho de 2025
+
+**Progresso:** Mais implementação de efeitos sonoros
+
+**Projetos:** First 2D platform game in Godot
