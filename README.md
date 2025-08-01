@@ -233,3 +233,9 @@ First 2D platform game in Godot
 **Progresso:** Mais implementação de efeitos sonoros e corrreções em ícones
 
 **Projetos:** First 2D platform game in Godot
+
+### Dia 60: 01 de Agosto de 2025
+
+**Progresso:** Mais implementação de efeitos sonoros
+
+**Projetos:** First 2D platform game in Godot
