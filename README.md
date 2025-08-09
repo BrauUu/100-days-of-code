@@ -239,3 +239,9 @@ First 2D platform game in Godot
 **Progresso:** Mais implementação de efeitos sonoros
 
 **Projetos:** First 2D platform game in Godot
+
+### Dia 61 a 68: 02 a 09 de Agosto de 2025
+
+**Progresso:** Implementação de detalhes no cenário; melhorias do tilemaps's; vegetação quebravél;
+
+**Projetos:** First 2D platform game in Godot
