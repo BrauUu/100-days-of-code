@@ -251,3 +251,10 @@ First 2D platform game in Godot
 **Progresso:** Habilitar/desabilitar música; espinhos dinâmicos utilizando @tool
 
 **Projetos:** First 2D platform game in Godot
+
+### Dia 73: 18 de Agosto de 2025
+
+**Progresso:** Armadilha de espinhos, projetíl.
+
+**Projetos:** First 2D platform game in Godot
+
