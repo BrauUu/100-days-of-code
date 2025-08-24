@@ -258,3 +258,8 @@ First 2D platform game in Godot
 
 **Projetos:** First 2D platform game in Godot
 
+### Dia 74: 24 de Agosto de 2025
+
+**Progresso:** Bomber goblin.
+
+**Projetos:** First 2D platform game in Godot
