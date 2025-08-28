@@ -269,3 +269,9 @@ First 2D platform game in Godot
 **Progresso:** Morcego.
 
 **Projetos:** First 2D platform game in Godot
+
+### Dia 77: 27 de Agosto de 2025
+
+**Progresso:** Melhorias na implementação do morcego.
+
+**Projetos:** First 2D platform game in Godot
