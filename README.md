@@ -287,3 +287,9 @@ First 2D platform game in Godot
 **Progresso:** Checkpoint sem lógica, apenas estilo, animações e sons
 
 **Projetos:** First 2D platform game in Godot
+
+### Dia 80: 30 de Agosto de 2025
+
+**Progresso:** Checkpoint finalizado
+
+**Projetos:** First 2D platform game in Godot
