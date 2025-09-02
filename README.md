@@ -293,3 +293,10 @@ First 2D platform game in Godot
 **Progresso:** Checkpoint finalizado
 
 **Projetos:** First 2D platform game in Godot
+
+### Dia 81: 01 de Setembro de 2025
+
+**Progresso:** Tocha tiki e vaso quebrável/puxável
+
+**Projetos:** First 2D platform game in Godot
+
