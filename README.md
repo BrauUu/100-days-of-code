@@ -300,3 +300,8 @@ First 2D platform game in Godot
 
 **Projetos:** First 2D platform game in Godot
 
+### Dia 82: 02 de Setembro de 2025
+
+**Progresso:** Botão no chão
+
+**Projetos:** First 2D platform game in Godot
