@@ -305,3 +305,9 @@ First 2D platform game in Godot
 **Progresso:** Botão no chão
 
 **Projetos:** First 2D platform game in Godot
+
+### Dia 83: 08 de Setembro de 2025
+
+**Progresso:** Correções em knockback, ataques pegando múltiplas vezes e knockback no player
+
+**Projetos:** First 2D platform game in Godot
