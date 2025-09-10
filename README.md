@@ -311,3 +311,9 @@ First 2D platform game in Godot
 **Progresso:** Correções em knockback, ataques pegando múltiplas vezes e knockback no player
 
 **Projetos:** First 2D platform game in Godot
+
+### Dia 84: 09 de Setembro de 2025
+
+**Progresso:** Correções em objetos interativos e alavanca
+
+**Projetos:** First 2D platform game in Godot
