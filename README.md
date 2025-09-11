@@ -317,3 +317,9 @@ First 2D platform game in Godot
 **Progresso:** Correções em objetos interativos e alavanca
 
 **Projetos:** First 2D platform game in Godot
+
+### Dia 85: 10 de Setembro de 2025
+
+**Progresso:** Placa de direção, correções pontuais em hitbox
+
+**Projetos:** First 2D platform game in Godot
