@@ -323,3 +323,15 @@ First 2D platform game in Godot
 **Progresso:** Placa de direção, correções pontuais em hitbox
 
 **Projetos:** First 2D platform game in Godot
+
+### Dia 86: 11 de Setembro de 2025
+
+**Progresso:** Organização de arquivos e código
+
+**Projetos:** First 2D platform game in Godot
+
+### Dia 86: 12 de Setembro de 2025
+
+**Progresso:** Placa de direção que pode ser lida e que move dinamicamente; Elemento de UI para leitura
+
+**Projetos:** First 2D platform game in Godot
