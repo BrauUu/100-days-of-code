@@ -330,8 +330,14 @@ First 2D platform game in Godot
 
 **Projetos:** First 2D platform game in Godot
 
-### Dia 86: 12 de Setembro de 2025
+### Dia 87: 12 de Setembro de 2025
 
 **Progresso:** Placa de direção que pode ser lida e que move dinamicamente; Elemento de UI para leitura
+
+**Projetos:** First 2D platform game in Godot
+
+### Dia 88: 15 de Setembro de 2025
+
+**Progresso:** Cogumelo
 
 **Projetos:** First 2D platform game in Godot
