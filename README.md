@@ -341,3 +341,9 @@ First 2D platform game in Godot
 **Progresso:** Cogumelo
 
 **Projetos:** First 2D platform game in Godot
+
+### Dia 89: 16 de Setembro de 2025
+
+**Progresso:** Cogumelo
+
+**Projetos:** First 2D platform game in Godot
