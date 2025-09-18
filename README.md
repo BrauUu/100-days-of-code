@@ -347,3 +347,9 @@ First 2D platform game in Godot
 **Progresso:** Cogumelo
 
 **Projetos:** First 2D platform game in Godot
+
+### Dia 90: 18 de Setembro de 2025
+
+**Progresso:** Refactor: Goblin refactor with Kiro
+
+**Projetos:** First 2D platform game in Godot
