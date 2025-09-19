@@ -348,7 +348,7 @@ First 2D platform game in Godot
 
 **Projetos:** First 2D platform game in Godot
 
-### Dia 90: 18 de Setembro de 2025
+### Dia 90 e 91: 18 e 19 de Setembro de 2025
 
 **Progresso:** Refactor: Goblin refactor with Kiro
 
